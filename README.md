@@ -1,11 +1,5 @@
 
 
-***⚠️USE THIS REPO AT YOUR OWN RISK***
-
-
- 
-GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
-
 
 
 
