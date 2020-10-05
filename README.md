@@ -9,7 +9,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
-[![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
+[![GANGSTER](https://telegra.ph/file/a9d2324c8c7e32b63388f.jpg)]
 
 
 
